@@ -55,11 +55,9 @@ weather-dashboard/
 └── README.md
 ```
 
-## Build Process
-
 ## Features
 - Fetches real-time weather data from OpenWeather API
-- Supports multiple Florida cities (Miami, Orlando, Tampa, Ocala)
+- Supports multiple cities
 - Stores weather data in AWS S3
 - Tracks temperature, feels like temperature, humidity, and weather conditions
 
