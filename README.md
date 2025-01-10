@@ -40,6 +40,7 @@ This project is the first in the 30 days of DevOps challenge, where we will spen
 </p>
 
 ## Project Structure
+```plaintext
 weather-dashboard/
 ├── src/
 │ ├── init .py
@@ -52,7 +53,7 @@ weather-dashboard/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Build Process
 
